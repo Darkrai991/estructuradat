@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda_F</string>
+    <string name="but1">Fecha</string>
+    <string name="but2">Agregar</string>
+    <string name="but3">Mostrar Actidades</string>
+    <string name="but4">Actividad Realizada</string>
+    <string name="etd2">Fecha:</string>
+    <string name="etd1">Actividad:</string>
+    <string name="Tv">Actividades:</string>
+</resources>
